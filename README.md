@@ -15,7 +15,7 @@ Sou desenvolvedor Full Stack com foco em **Java** e **tecnologias de Front-end**
 ---
 
 ###Detalhes
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danilo-Sam&show icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Danilo-Sam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Habilidades Técnicas
 
